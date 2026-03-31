@@ -1,0 +1,4 @@
+baseURL: https://kairos-musubi.com/
+locale: en-us
+title: Kairos Musubi
+theme: ["PaperMod"]
