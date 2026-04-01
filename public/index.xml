@@ -6,8 +6,52 @@
     <description>Recent content on Kairos Musubi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:27:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple Complet de Markdown</title>
+      <link>http://localhost:1313/posts/exemple/</link>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/exemple/</guid>
+      <description>&lt;h1 id=&#34;titre-h1&#34;&gt;Titre H1&lt;/h1&gt;
+&lt;p&gt;Ce post sert d&amp;rsquo;exemple pour illustrer les capacités de rendu Markdown de votre blog.&lt;/p&gt;
+&lt;h2 id=&#34;mise-en-forme-du-texte&#34;&gt;Mise en forme du texte&lt;/h2&gt;
+&lt;p&gt;Voici les styles de base :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gras&lt;/strong&gt; avec &lt;code&gt;**Gras**&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Italique&lt;/em&gt; avec &lt;code&gt;*Italique*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Gras et Italique&lt;/em&gt;&lt;/strong&gt; avec &lt;code&gt;***Gras et Italique***&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Barré&lt;/del&gt; avec &lt;code&gt;~~Barré~~&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;listes&#34;&gt;Listes&lt;/h2&gt;
+&lt;h3 id=&#34;liste-non-ordonnée&#34;&gt;Liste non ordonnée&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Élément 1&lt;/li&gt;
+&lt;li&gt;Élément 2
+&lt;ul&gt;
+&lt;li&gt;Sous-élément A&lt;/li&gt;
+&lt;li&gt;Sous-élément B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Élément 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;liste-ordonnée&#34;&gt;Liste ordonnée&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Premier&lt;/li&gt;
+&lt;li&gt;Deuxième&lt;/li&gt;
+&lt;li&gt;Troisième&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;liste-de-tâches&#34;&gt;Liste de tâches&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tâche terminée&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tâche en cours&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Tâche à faire&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;citations&#34;&gt;Citations&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Le code est comme l&amp;rsquo;humour. Quand on est obligé de l&amp;rsquo;expliquer, c&amp;rsquo;est qu&amp;rsquo;il est mauvais.&amp;rdquo;&lt;br&gt;
+— &lt;em&gt;Cory House&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Debut in Code With Rust</title>
       <link>http://localhost:1313/posts/my-debut-in-code-with-rust/</link>

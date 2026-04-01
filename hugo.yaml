@@ -6,10 +6,11 @@ theme: ["PaperMod"]
 params:
   defaultTheme: auto
   author: Yoann Alves
+  showToc: true
 
   ShowReadingTime: true
   ShowCodeCopyButtons: true
-  ShowPostNavLinks: true
+  # ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowWordCount: true
 
@@ -20,7 +21,7 @@ params:
   profileMode:
     enabled: true
     title: "NaLuxis"
-    subtitle: "I follow my curiosity and share it."
+    subtitle: "I follow my curiosity and share it. \nAnd I like ants."
     imageUrl: "/images/profile.png"
     imageTitle: "Profile picture"
     imageWidth: 188

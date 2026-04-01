@@ -1,0 +1,222 @@
+:root {
+    --ant-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cellipse cx='12' cy='18' rx='2.2' ry='3.5'/%3E%3Cellipse cx='12' cy='11' rx='1.2' ry='2.2'/%3E%3Ccircle cx='12' cy='5.5' r='1.5'/%3E%3Cpath d='M10.5 10l-4.5-3.5M10.5 11.5l-5 0.5M10.5 13l-4.5 3.5' stroke='black' stroke-width='0.6' fill='none'/%3E%3Cpath d='M13.5 10l4.5-3.5M13.5 11.5l5 0.5M13.5 13l4.5 3.5' stroke='black' stroke-width='0.6' fill='none'/%3E%3Cpath d='M11 4.5l-2-2.5M13 4.5l2-2.5' stroke='black' stroke-width='0.4' fill='none'/%3E%3C/svg%3E");
+    --ant-color: #000000;
+}
+
+[data-theme="dark"] {
+    --ant-color: #fffc40;
+}
+
+.ants-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.ant {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: var(--ant-color);
+    mask-image: var(--ant-mask);
+    -webkit-mask-image: var(--ant-mask);
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+[data-theme="dark"] .ant {
+    opacity: 0.25;
+}
+
+.ant-1 {
+    top: 5%;
+    left: 3%;
+    transform: rotate(-45deg);
+}
+.ant-2 {
+    top: 15%;
+    left: 6%;
+    transform: rotate(10deg);
+}
+.ant-3 {
+    top: 25%;
+    left: 2%;
+    transform: rotate(80deg);
+    opacity: 0.8;
+}
+.ant-4 {
+    top: 35%;
+    left: 8%;
+    transform: rotate(-30deg);
+}
+.ant-5 {
+    top: 45%;
+    left: 4%;
+    transform: rotate(140deg);
+    opacity: 0.7;
+}
+.ant-6 {
+    top: 55%;
+    left: 1%;
+    transform: rotate(20deg);
+}
+.ant-7 {
+    top: 65%;
+    left: 7%;
+    transform: rotate(-110deg);
+}
+.ant-8 {
+    top: 75%;
+    left: 3%;
+    transform: rotate(45deg);
+    opacity: 0.7;
+}
+.ant-9 {
+    top: 85%;
+    left: 9%;
+    transform: rotate(160deg);
+}
+.ant-10 {
+    top: 92%;
+    left: 2%;
+    transform: rotate(-60deg);
+}
+
+.ant-11 {
+    top: 8%;
+    right: 4%;
+    transform: rotate(30deg);
+}
+.ant-12 {
+    top: 18%;
+    right: 7%;
+    transform: rotate(-20deg);
+    opacity: 0.8;
+}
+.ant-13 {
+    top: 28%;
+    right: 3%;
+    transform: rotate(110deg);
+}
+.ant-14 {
+    top: 38%;
+    right: 9%;
+    transform: rotate(-150deg);
+    opacity: 0.9;
+}
+.ant-15 {
+    top: 48%;
+    right: 5%;
+    transform: rotate(20deg);
+}
+.ant-16 {
+    top: 58%;
+    right: 1%;
+    transform: rotate(85deg);
+}
+.ant-17 {
+    top: 68%;
+    right: 8%;
+    transform: rotate(-10deg);
+}
+.ant-18 {
+    top: 78%;
+    right: 4%;
+    transform: rotate(170deg);
+    opacity: 0.8;
+}
+.ant-19 {
+    top: 88%;
+    right: 10%;
+    transform: rotate(-45deg);
+}
+.ant-20 {
+    top: 95%;
+    right: 3%;
+    transform: rotate(100deg);
+}
+
+.ant-21 {
+    top: 2%;
+    left: 20%;
+    transform: rotate(-15deg);
+    opacity: 0.7;
+}
+.ant-22 {
+    top: 2%;
+    right: 25%;
+    transform: rotate(25deg);
+    opacity: 0.9;
+}
+.ant-23 {
+    bottom: 5%;
+    left: 25%;
+    transform: rotate(140deg);
+    opacity: 0.8;
+}
+.ant-24 {
+    bottom: 5%;
+    right: 20%;
+    transform: rotate(-30deg);
+    opacity: 0.8;
+}
+
+.ant-25 {
+    top: 50%;
+    left: 12%;
+    transform: rotate(70deg);
+    opacity: 0.7;
+}
+.ant-26 {
+    top: 50%;
+    right: 15%;
+    transform: rotate(-100deg);
+    opacity: 0.8;
+}
+.ant-27 {
+    top: 20%;
+    left: 15%;
+    transform: rotate(45deg);
+    opacity: 0.9;
+}
+.ant-28 {
+    top: 80%;
+    right: 18%;
+    transform: rotate(-45deg);
+    opacity: 0.9;
+}
+
+.profile_inner {
+    position: relative;
+}
+.profile_inner::before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #fffc40 !important;
+    mask-image: var(--ant-mask);
+    -webkit-mask-image: var(--ant-mask);
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    top: 150px;
+    left: 220px;
+    transform: rotate(45deg);
+    z-index: 10;
+}
+
+@media screen and (max-width: 768px) {
+    .ant:nth-child(even) {
+        display: none;
+    }
+    .ant {
+        opacity: 0.7;
+    }
+}
