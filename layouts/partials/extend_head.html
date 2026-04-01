@@ -1,0 +1,8 @@
+<!-- Fuse.js pour la recherche -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+
+<!-- CSS de la modal -->
+{{ $searchCSS := resources.Get "css/extended/search-modal.css" }} {{ if
+$searchCSS }}
+<link rel="stylesheet" href="{{ $searchCSS.RelPermalink }}" />
+{{ end }}

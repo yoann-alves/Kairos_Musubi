@@ -2,3 +2,76 @@ baseURL: https://kairos-musubi.com/
 locale: en-us
 title: Kairos Musubi
 theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  author: Yoann Alves
+
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+
+  label:
+    text: "Kairos Musubi"
+    icon: "/images/Mavis.svg"
+
+  profileMode:
+    enabled: true
+    title: "NaLuxis"
+    subtitle: "I follow my curiosity and share it."
+    imageUrl: "/images/profile.png"
+    imageTitle: "Profile picture"
+    imageWidth: 188
+    imageHeight: 188
+    # buttons:
+    #   - name: Archives
+    #     url: "/archives"
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/yoann-alves"
+    - name: "YouTube"
+      url: "https://www.youtube.com/@yoannalves"
+    - name: "Twitch"
+      url: "https://www.twitch.tv/naluxis"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/yoann-alves/"
+    - name: "X"
+      url: "https://x.com/Yoann_Alves_"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Posts
+      pageRef: /posts
+      weight: 20
+
+fuseOpts:
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 1000
+  threshold: 0.4
+  minMatchCharLength: 0
+  limit: 10
+  keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: github-dark
+  goldmark:
+    renderer:
+      unsafe: true

@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kairos Musubi</title>
-    <link>https://kairos-musubi.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Kairos Musubi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:27:05 +0200</lastBuildDate>
-    <atom:link href="https://kairos-musubi.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://kairos-musubi.com/tags/first/</link>
-      <pubDate>Tue, 31 Mar 2026 10:27:05 +0200</pubDate>
-      <guid>https://kairos-musubi.com/tags/first/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
