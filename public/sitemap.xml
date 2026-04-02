@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/exemple/</loc>
-    <lastmod>2026-04-01T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-01T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-01T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-debut-in-code-with-rust/</loc>
+    <loc>https://www.kairos-musubi.com/</loc>
     <lastmod>2026-03-31T10:27:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.kairos-musubi.com/posts/my-debut-in-code-with-rust/</loc>
+    <lastmod>2026-03-31T10:27:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://www.kairos-musubi.com/posts/</loc>
+    <lastmod>2026-03-31T10:27:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.kairos-musubi.com/categories/</loc>
+  </url><url>
+    <loc>https://www.kairos-musubi.com/search/</loc>
+  </url><url>
+    <loc>https://www.kairos-musubi.com/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL: https://kairos-musubi.com/
+baseURL: https://www.kairos-musubi.com/
 locale: en-us
 title: Kairos Musubi
 theme: ["PaperMod"]
@@ -41,6 +41,12 @@ params:
       url: "https://www.linkedin.com/in/yoann-alves/"
     - name: "X"
       url: "https://x.com/Yoann_Alves_"
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
 outputs:
   home:
