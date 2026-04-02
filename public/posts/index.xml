@@ -6,15 +6,17 @@
     <description>Recent content in Posts on Kairos Musubi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:27:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:35:09 +0200</lastBuildDate>
     <atom:link href="https://www.kairos-musubi.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Debut in Code With Rust</title>
-      <link>https://www.kairos-musubi.com/posts/my-debut-in-code-with-rust/</link>
-      <pubDate>Tue, 31 Mar 2026 10:27:05 +0200</pubDate>
-      <guid>https://www.kairos-musubi.com/posts/my-debut-in-code-with-rust/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test&#34;&gt;This is a test&lt;/h1&gt;
-&lt;p&gt;Test.&lt;/p&gt;</description>
+      <title>Why I&#39;m Learning Rust as My First Programming Language?</title>
+      <link>https://www.kairos-musubi.com/posts/why-im-learning-rust-as-my-first-programming-language/why-im-learning-rust-as-my-first-programming-language/</link>
+      <pubDate>Thu, 02 Apr 2026 13:35:09 +0200</pubDate>
+      <guid>https://www.kairos-musubi.com/posts/why-im-learning-rust-as-my-first-programming-language/why-im-learning-rust-as-my-first-programming-language/</guid>
+      <description>&lt;p&gt;I took me around 8 months of procrastination, but at one point I finally finish 739 Rust exercices, as a non programmer.&lt;/p&gt;
+&lt;p&gt;Let me told you the story of a non programmer (yet) learning Rust as it&amp;rsquo;s first language.&lt;/p&gt;
+&lt;h2 id=&#34;javascript-saas-and-illusions&#34;&gt;Javascript, SaaS and illusions.&lt;/h2&gt;
+&lt;p&gt;At the verry beggining, I was wandering what to do in my life, what I really want to do in my life I mean. I watch on YouTube a video about AI and SaaS… I won&amp;rsquo;t going deep here, you picture the story. Juste some random beautiful thing that make money, but the reallity is différent.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
