@@ -129,10 +129,6 @@
     display: block;
 }
 
-.search-result-title:hover {
-    color: var(--tertiary);
-}
-
 .no-results {
     padding: 40px 20px;
     text-align: center;
