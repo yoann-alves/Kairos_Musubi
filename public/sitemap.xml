@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.kairos-musubi.com/</loc>
-    <lastmod>2026-04-02T13:35:09+02:00</lastmod>
+    <lastmod>2026-04-19T15:00:59+02:00</lastmod>
   </url><url>
     <loc>https://www.kairos-musubi.com/posts/</loc>
-    <lastmod>2026-04-02T13:35:09+02:00</lastmod>
+    <lastmod>2026-04-19T15:00:59+02:00</lastmod>
+  </url><url>
+    <loc>https://www.kairos-musubi.com/posts/what-i-have-learned-after-1-month-of-code/</loc>
+    <lastmod>2026-04-19T15:00:59+02:00</lastmod>
   </url><url>
     <loc>https://www.kairos-musubi.com/posts/why-im-learning-rust-as-my-first-programming-language/</loc>
     <lastmod>2026-04-02T13:35:09+02:00</lastmod>
