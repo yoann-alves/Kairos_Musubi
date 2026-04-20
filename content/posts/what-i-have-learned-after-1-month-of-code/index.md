@@ -82,7 +82,7 @@ The idea at the beginning is that the community can add some resources (with a d
 
 The idea is just to have a place to find something that you need without digging for hours and ending with nothing.
 
-I will stream on Twitch and YouTube everything that I build and the project will be open source.
+I will stream on Twitch and YouTube everything that I build.
 
 And of course, it will take a long time before this solution really helps you. I can't add all the resources alone, and also, as a beginner knowing if X resource is bad or not is impossible. That's why it will take a long time. I need the more people possible to just add resources, vote for it to have better search results, to comment and suggest improvement for the description/how to use well the resource.
 
@@ -110,7 +110,7 @@ For Rust we don't have that (yet). Some things exists, but there aren't many.
 
 Think about that: what if, for free, everyone can learn from 0 Rust and become an expert that big company want to hire (like really want you). Provide something that's so good for free that every online courses can't even exist. And most important, if you don't have much money, with hard work and enough time, you'll change your life.
 
-And here you should think, that's a dream, and you're right. That doesn't mean that I'll give up on that.
+And here you should think, that's a dream, and you're right. That doesn't mean that I'll give up on that. It’s just one thing: the world is capitalist, so I’m going to need money to get by one way or another.
 
 I'll finish on that point. Think about what looks like the Rust ecosystem with that vision.
 
