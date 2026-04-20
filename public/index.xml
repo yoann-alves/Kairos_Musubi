@@ -6,28 +6,8 @@
     <description>Recent content on Kairos Musubi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 15:00:59 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:35:09 +0200</lastBuildDate>
     <atom:link href="https://www.kairos-musubi.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What I&#39;ve learned after my first month of coding with Rust</title>
-      <link>https://www.kairos-musubi.com/posts/what-i-have-learned-after-1-month-of-code/</link>
-      <pubDate>Sun, 19 Apr 2026 15:00:59 +0200</pubDate>
-      <guid>https://www.kairos-musubi.com/posts/what-i-have-learned-after-1-month-of-code/</guid>
-      <description>&lt;p&gt;In my previous article I talked about my very debut in the coding world and why Rust is my choice (I just love Rust).&lt;/p&gt;
-&lt;h1 id=&#34;the-most-important-lesson&#34;&gt;The most important lesson&lt;/h1&gt;
-&lt;p&gt;Since I finished &lt;a href=&#34;https://rarecode.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;RareCode&lt;/a&gt;
-, for about a week I struggled a lot. I was wondering: &amp;ldquo;What&amp;rsquo;s next?&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve tried to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;read a book (&lt;a href=&#34;https://www.manning.com/books/learn-rust-in-a-month-of-lunches&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Learn Rust in a Month of Lunches&lt;/a&gt;
-) that I&amp;rsquo;ve already talked about, and it was really valuable until the chapter covered a topic that I haven&amp;rsquo;t previously understood and practiced.&lt;/li&gt;
-&lt;li&gt;follow tutorials, but it was really short because I just don&amp;rsquo;t like that.&lt;/li&gt;
-&lt;li&gt;start a personal project with &lt;a href=&#34;https://leptos.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Leptos&lt;/a&gt;
-, well… my skills need some improvements before Leptos. I didn&amp;rsquo;t understand a lot of things while going through the documentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;My attempt to create a personal project was maybe a little bit too rushed. But because of that I&amp;rsquo;ve found &lt;a href=&#34;https://www.codewars.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Codewars&lt;/a&gt;
-, did a lot of kata (all the 8 kyu in Rust) and progressed &lt;strong&gt;a lot&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Why I&#39;m Learning Rust as My First Programming Language</title>
       <link>https://www.kairos-musubi.com/posts/why-im-learning-rust-as-my-first-programming-language/</link>
